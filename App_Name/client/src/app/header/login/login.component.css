@@ -1,0 +1,6 @@
+.mand::before{
+    position: relative;
+    color: red;
+    content:'\2a';
+    font-size: 18px;
+}
