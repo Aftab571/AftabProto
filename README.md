@@ -1,0 +1,2 @@
+# AftabProto
+Mosque timing application
